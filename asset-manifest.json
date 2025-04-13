@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/guide-du-rookie-nord/static/css/main.3763d17c.css",
+    "main.js": "/guide-du-rookie-nord/static/js/main.00448489.js",
+    "static/js/453.920d4b45.chunk.js": "/guide-du-rookie-nord/static/js/453.920d4b45.chunk.js",
+    "static/media/MCD.png": "/guide-du-rookie-nord/static/media/MCD.27034c08952c191888a3.png",
+    "static/media/logo-crime-flashback5.png": "/guide-du-rookie-nord/static/media/logo-crime-flashback5.78f46ff583d0da5dc4de.png",
+    "static/media/Logo-Police-Academy.png": "/guide-du-rookie-nord/static/media/Logo-Police-Academy.0a17f3a54aa84c8fe2fe.png",
+    "static/media/hp.png": "/guide-du-rookie-nord/static/media/hp.f29d23b047f5075785ef.png",
+    "static/media/td.png": "/guide-du-rookie-nord/static/media/td.704e979e3f82ebea2047.png",
+    "static/media/asd.png": "/guide-du-rookie-nord/static/media/asd.2f54571932410e95e6d0.png",
+    "static/media/controle-routier.png": "/guide-du-rookie-nord/static/media/controle-routier.5c416fd90d04c9155d5f.png",
+    "static/media/glock.png": "/guide-du-rookie-nord/static/media/glock.82313f5769fc351d93b1.png",
+    "static/media/RA.png": "/guide-du-rookie-nord/static/media/RA.69554d755b492b8510db.png",
+    "static/media/DOA.png": "/guide-du-rookie-nord/static/media/DOA.bd248df93e598d5496ab.png",
+    "index.html": "/guide-du-rookie-nord/index.html",
+    "main.3763d17c.css.map": "/guide-du-rookie-nord/static/css/main.3763d17c.css.map",
+    "main.00448489.js.map": "/guide-du-rookie-nord/static/js/main.00448489.js.map",
+    "453.920d4b45.chunk.js.map": "/guide-du-rookie-nord/static/js/453.920d4b45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3763d17c.css",
+    "static/js/main.00448489.js"
+  ]
+}
