@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/guide-du-rookie-nord/static/css/main.3763d17c.css",
-    "main.js": "/guide-du-rookie-nord/static/js/main.88560dd9.js",
+    "main.css": "/guide-du-rookie-nord/static/css/main.0cdc3c51.css",
+    "main.js": "/guide-du-rookie-nord/static/js/main.0a1a4e25.js",
     "static/js/453.920d4b45.chunk.js": "/guide-du-rookie-nord/static/js/453.920d4b45.chunk.js",
+    "static/media/etape-plainte.png": "/guide-du-rookie-nord/static/media/etape-plainte.df8b67280156859647e3.png",
     "static/media/MCD.png": "/guide-du-rookie-nord/static/media/MCD.27034c08952c191888a3.png",
     "static/media/logo-crime-flashback5.png": "/guide-du-rookie-nord/static/media/logo-crime-flashback5.78f46ff583d0da5dc4de.png",
     "static/media/Logo-Police-Academy.png": "/guide-du-rookie-nord/static/media/Logo-Police-Academy.0a17f3a54aa84c8fe2fe.png",
@@ -14,12 +15,12 @@
     "static/media/RA.png": "/guide-du-rookie-nord/static/media/RA.69554d755b492b8510db.png",
     "static/media/DOA.png": "/guide-du-rookie-nord/static/media/DOA.bd248df93e598d5496ab.png",
     "index.html": "/guide-du-rookie-nord/index.html",
-    "main.3763d17c.css.map": "/guide-du-rookie-nord/static/css/main.3763d17c.css.map",
-    "main.88560dd9.js.map": "/guide-du-rookie-nord/static/js/main.88560dd9.js.map",
+    "main.0cdc3c51.css.map": "/guide-du-rookie-nord/static/css/main.0cdc3c51.css.map",
+    "main.0a1a4e25.js.map": "/guide-du-rookie-nord/static/js/main.0a1a4e25.js.map",
     "453.920d4b45.chunk.js.map": "/guide-du-rookie-nord/static/js/453.920d4b45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3763d17c.css",
-    "static/js/main.88560dd9.js"
+    "static/css/main.0cdc3c51.css",
+    "static/js/main.0a1a4e25.js"
   ]
 }
